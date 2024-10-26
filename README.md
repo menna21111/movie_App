@@ -63,13 +63,13 @@ Installation and Setup
 Clone the repository:
 
 bash
-نسخ الكود
+
 git clone https://github.com/yourusername/netflix-flutter-app.git
 cd netflix-flutter-app
 Install dependencies:
 
 bash
-نسخ الكود
+
 flutter pub get
 Create an account with TMDb and obtain an API key. Add this key to your app in a secure manner.
 
